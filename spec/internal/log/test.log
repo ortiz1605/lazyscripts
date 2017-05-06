@@ -1,0 +1,184 @@
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 16:22:15 -0500
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 16:33:57 -0500
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 17:35:03 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 22:07:48 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 22:39:55 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.6ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 22:40:47 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 22:42:29 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-05 23:51:32 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:02:31 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:06:43 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:12:19 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:13:39 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:27:50 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:31:36 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:32:25 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:38:07 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 00:58:40 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-06 01:04:43 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-07 17:05:26 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.6ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-07 17:05:40 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.6ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-07 17:40:13 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-07 17:42:53 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-07 20:00:35 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-08 13:36:54 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-08 13:37:24 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/backend" for 127.0.0.1 at 2013-03-08 14:02:10 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/rails/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/" for 127.0.0.1 at 2013-03-08 14:29:04 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/" for 127.0.0.1 at 2013-03-08 14:31:37 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (0.5ms)
+Completed 200 OK in 3ms (Views: 2.9ms)
+Started GET "/" for 127.0.0.1 at 2013-03-08 14:55:30 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/" for 127.0.0.1 at 2013-03-08 23:12:44 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/" for 127.0.0.1 at 2013-03-09 04:17:07 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (0.6ms)
+Completed 200 OK in 3ms (Views: 2.8ms)
+Started GET "/" for 127.0.0.1 at 2013-03-09 04:34:19 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (37.5ms)
+Completed 200 OK in 49ms (Views: 48.5ms)
+Started GET "/" for 127.0.0.1 at 2013-03-09 04:34:44 -0500
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (36.3ms)
+Completed 200 OK in 47ms (Views: 47.1ms)
+Started GET "/" for 127.0.0.1 at 2013-03-10 04:27:48 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (2.9ms)
+Completed 200 OK in 49ms (Views: 48.4ms)
+Started GET "/" for 127.0.0.1 at 2013-03-11 04:33:11 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.0ms)
+Completed 200 OK in 49ms (Views: 48.5ms)
+Started GET "/" for 127.0.0.1 at 2013-03-11 05:00:17 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.0ms)
+Completed 200 OK in 48ms (Views: 48.1ms)
+Started GET "/" for 127.0.0.1 at 2013-03-13 01:33:36 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.1ms)
+Completed 200 OK in 45ms (Views: 45.0ms)
+Started GET "/" for 127.0.0.1 at 2013-03-13 01:36:51 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.2ms)
+Completed 200 OK in 45ms (Views: 45.0ms)
+Started GET "/" for 127.0.0.1 at 2013-03-13 03:18:53 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.1ms)
+Completed 200 OK in 48ms (Views: 48.0ms)
+Started GET "/" for 127.0.0.1 at 2013-03-14 19:44:40 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.1ms)
+Completed 200 OK in 53ms (Views: 52.5ms)
+Started GET "/" for 127.0.0.1 at 2013-03-16 02:24:31 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (37.4ms)
+Completed 200 OK in 49ms (Views: 48.8ms)
+Started GET "/" for 127.0.0.1 at 2013-03-16 02:42:20 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (37.5ms)
+Completed 200 OK in 49ms (Views: 48.7ms)
+Started GET "/" for 127.0.0.1 at 2013-03-18 01:19:19 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (33.3ms)
+Completed 200 OK in 45ms (Views: 44.6ms)
+Started GET "/" for 127.0.0.1 at 2013-03-18 01:19:47 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (33.7ms)
+Completed 200 OK in 45ms (Views: 45.1ms)
+Started GET "/" for 127.0.0.1 at 2013-03-18 01:24:08 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.1ms)
+Completed 200 OK in 46ms (Views: 45.3ms)
+Started GET "/" for 127.0.0.1 at 2013-03-18 01:24:35 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.1ms)
+Completed 200 OK in 45ms (Views: 44.9ms)
+Started GET "/" for 127.0.0.1 at 2013-03-18 01:29:56 -0400
+Processing by Abc::Backend::BaseController#index as HTML
+  Rendered /home/rob/Sites/a/afterburnercms/delivery/backend/app/views/abc/backend/base/index.html.erb (3.1ms)
+Completed 200 OK in 45ms (Views: 44.7ms)
