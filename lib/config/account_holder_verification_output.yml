@@ -1,0 +1,182 @@
+header:
+  rec_id:
+    data_type: N
+    offset: 1
+    length: 3
+    fixed_val: '030'
+    no_strip: true
+  rec_status:
+    data_type: A
+    offset: 4
+    length: 1
+    regex: ^T|L$
+  gen_no:
+    data_type: N
+    offset: 5
+    length: 7
+  dept_code:
+    data_type: A
+    offset: 12
+    length: 6
+trailer:
+  rec_id:
+    data_type: N
+    offset: 1
+    length: 3
+    fixed_val: '039'
+    no_strip: true
+  rec_status:
+    data_type: A
+    offset: 4
+    length: 1
+    regex: ^T|L$
+  no_det_recs:
+    data_type: N
+    offset: 5
+    length: 7
+  acc_total:
+    data_type: N
+    offset: 12
+    length: 18
+internal_account_detail:
+  rec_id:
+    data_type: N
+    offset: 1
+    length: 3
+    fixed_val: '031'
+    no_strip: true
+  rec_status:
+    data_type: A
+    offset: 4
+    length: 1
+    regex: ^T|L$
+  seq_no:
+    data_type: N
+    offset: 5
+    length: 7    
+  account_number:
+    data_type: N
+    offset: 12
+    length: 18
+  id_number:
+    data_type: A
+    offset: 30
+    length: 13
+  initials:
+    data_type: A
+    offset: 43
+    length: 3
+    regex: ^[a-zA-Z]{0,3}$
+  surname:
+    data_type: A
+    offset: 46
+    length: 60
+  return_code_1:
+    data_type: N
+    offset: 106
+    length: 2
+  return_code_2:
+    data_type: N
+    offset: 108
+    length: 2
+  return_code_3:
+    data_type: N
+    offset: 110
+    length: 2
+  return_code_4:
+    data_type: N
+    offset: 112
+    length: 2
+  user_ref:
+    data_type: A
+    offset: 114
+    length: 30
+external_account_detail:
+  rec_id:
+    data_type: N
+    offset: 1
+    length: 3
+    fixed_val: '031'
+    no_strip: true
+  rec_status:
+    data_type: A
+    offset: 4
+    length: 1
+    regex: ^T|L$
+  seq_no:
+    data_type: N
+    offset: 5
+    length: 7    
+  account_number:
+    data_type: N
+    offset: 12
+    length: 18
+  id_number:
+    data_type: A
+    offset: 30
+    length: 13
+  initials:
+    data_type: A
+    offset: 43
+    length: 3
+  surname:
+    data_type: A
+    offset: 46
+    length: 60
+  return_code_1:
+    data_type: N
+    offset: 106
+    length: 2
+  return_code_2:
+    data_type: N
+    offset: 108
+    length: 2
+  return_code_3:
+    data_type: N
+    offset: 110
+    length: 2
+  return_code_4:
+    data_type: N
+    offset: 112
+    length: 2
+  user_ref:
+    data_type: A
+    offset: 114
+    length: 30
+  branch_code:
+    data_type: N
+    offset: 144
+    length: 6
+  originating_bank:
+    data_type: N
+    offset: 150
+    length: 6
+    fixed_val: '000060'
+  ld_code:
+    data_type: A
+    offset: 156
+    length: 7
+  return_code_5:
+    data_type: N
+    offset: 163
+    length: 2
+  return_code_6:
+    data_type: N
+    offset: 165
+    length: 2
+  return_code_7:
+    data_type: N
+    offset: 167
+    length: 2
+  return_code_8:
+    data_type: N
+    offset: 169
+    length: 2
+  return_code_9:
+    data_type: N
+    offset: 171
+    length: 2
+  return_code_10:
+    data_type: N
+    offset: 173
+    length: 2

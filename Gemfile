@@ -1,10 +1,4 @@
-source 'https://rubygems.org'
+source "http://rubygems.org"
 
-# Specify your gem's dependencies in abstractivator.gemspec
+# Specify your gem's dependencies in absa-h2h.gemspec
 gemspec
-
-group :test do
-  gem 'rspec'
-  gem 'json'
-  gem 'rails'
-end
